@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Telex-Regular';
+  src: url('Telex-Regular.eot');
+  src: url('Telex-Regular.eot?#iefix') format('embedded-opentype'),
+       url('Telex-Regular.svg#Telex-Regular') format('svg'),
+       url('Telex-Regular.ttf') format('truetype'),
+       url('Telex-Regular.woff') format('woff'),
+       url('Telex-Regular.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+

@@ -1,0 +1,79 @@
+
+@font-face {
+    font-family: 'Segoe WP';
+    font-style: normal;
+    font-weight: normal;
+    src: url('./Segoe WP/SegoeWP.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Lucida Sans';
+    src: url('./Lucida Sans/Lucida Sans.eot');
+    src: url('./Lucida Sans/Lucida Sans.eot?#iefix') format('embedded-opentype'),
+    url('./Lucida Sans/Lucida Sans.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'LucidaSans';
+    src: url('./Lucida Sans/LucidaSans.svg#LucidaSans') format('svg'),
+    url('./Lucida Sans/LucidaSans.ttf') format('truetype'),
+    url('./Lucida Sans/LucidaSans.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'SegoeUI-Regular';
+    src: url('./segoe-ui/SegoeUI-Regular.svg#SegoeUI-Regular') format('svg'),
+    url('./segoe-ui/SegoeUI-Regular.ttf') format('truetype'),
+    url('./segoe-ui/SegoeUI-Regular.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Segoe UI';
+    src: url('./segoe-ui/segoe-ui.eot');
+    src: url('./segoe-ui/segoe-ui.eot?#iefix') format('embedded-opentype'),
+    url('./segoe-ui/segoe-ui.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'SegoeUI-Light';
+    src: url('./segoe-ui light/SegoeUI-Light.svg#SegoeUI-Light') format('svg'),
+    url('./segoe-ui light/SegoeUI-Light.ttf') format('truetype'),
+    url('./segoe-ui light/SegoeUI-Light.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'segoe-ui light';
+    src: url('./segoe-ui light/segoe-ui light.eot');
+    src: url('./segoe-ui light/segoe-ui light.eot?#iefix') format('embedded-opentype'),
+    url('./segoe-ui light/segoe-ui light.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'SegoeWP-Light';
+    src: url('./Segoe WP Light 1/SSegoeWP-Light.svg#SegoeWP-Light') format('svg'),
+    url('./Segoe WP Light 1/SegoeWP-Light.ttf') format('truetype'),
+    url('./Segoe WP Light 1/SegoeWP-Light.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'segoe-wp-light';
+    src: url('./Segoe WP Light 1/segoe-wp-light.eot');
+    src: url('./Segoe WP Light 1/segoe-wp-light.eot?#iefix') format('embedded-opentype'),
+    url('./Segoe WP Light 1/segoe-wp-light.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
